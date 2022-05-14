@@ -1,0 +1,1 @@
+### in this project i learned slice functionality on arrays;;;
